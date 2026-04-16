@@ -1,6 +1,6 @@
 # Solución Definitiva: Error de Compilación en `ezllama 0.3.1` (missing lifetime specifier / method not found) 🛠️🔥
 
-**Emitido por:** I A S M(CEO)
+**Emitido por:** I A S M  (CEO)
 **Organización:** Eco-Electronic Solutions Networks. Todos los derechos reservados.
 **Fecha de Publicación:** 2026
 **Licencia:** Open-Source (Compartido de manera libre bajo la política Free-to-Dev)
